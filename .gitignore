@@ -6,3 +6,5 @@ out/
 .env*
 AGENTS.md
 CLAUDE.md
+
+.vercel
